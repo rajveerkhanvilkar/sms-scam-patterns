@@ -22,7 +22,7 @@
         "otp_session": "65 points - MEDIUM-HIGH RISK",
         "urgency": "45 points - MEDIUM RISK",
         "url_paths": "40 points - MEDIUM RISK",
-        "note": "Scores are cumulative. Multiple matches = higher total score. 50+ = SUSPICIOUS, 70+ = DANGEROUS"
+        "note": "Scores are cumulative. Multiple matches = higher total score. 45+ = SUSPICIOUS, 60+ = DANGEROUS"
     },
     "guaranteed_scams": [
         "free-money",
